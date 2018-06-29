@@ -1,0 +1,24 @@
+.login .logo {
+  margin: 7px auto 20px auto;
+  padding: 1px;
+  text-align: center; }
+  
+  .login .content {
+  width: 360px;
+  margin: -20px auto;
+  margin-bottom: 0px;
+  padding: 30px;
+  padding-top: 20px;
+  padding-bottom: 15px;
+  -webkit-border-radius: 7px;
+  -moz-border-radius: 7px;
+  -ms-border-radius: 7px;
+  -o-border-radius: 7px;
+  border-radius: 35px; }
+  
+  .login .content .form-actions {
+  padding: 0px 30px 7px 30px;
+}
+
+.login .content .form-title {
+  margin-bottom: 15px; }
